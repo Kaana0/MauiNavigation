@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1F090116-FEB2-4951-8364-D8D52D6C8D2B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MauiNavigation/MainPage.xaml.cs">
+    <Files>
+      <File FileName="MauiNavigation/App.xaml.cs" Line="9" Column="52" />
+      <File FileName="MauiNavigation/MainPage.xaml" Line="24" Column="13" />
+      <File FileName="MauiNavigation/SubPage.xaml" Line="25" Column="35" />
+      <File FileName="MauiNavigation/MainPage.xaml.cs" Line="13" Column="1" NotebookId="1" />
+      <File FileName="MauiNavigation/SubPage.xaml.cs" Line="26" Column="12" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MauiNavigation" expanded="True">
+            <Node name="MauiNavigation" expanded="True">
+              <Node name="SubPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MauiNavigation PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

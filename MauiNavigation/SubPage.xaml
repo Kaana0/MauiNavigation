@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiNavigation.SubPage"
+             Title="{Binding Navi}">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Button
+                Text="push"
+                Clicked="OnPush"
+                HorizontalOptions="Center"/>
+
+            <Button
+                Text="pop"
+                Clicked="OnPop"
+                HorizontalOptions="Center"/>
+
+            <Button
+                Text="pop root"
+                Clicked="OnPopRoot"
+                HorizontalOptions="Center"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+
